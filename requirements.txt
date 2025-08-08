@@ -1,0 +1,5 @@
+pydantic
+langchain-core
+dotenv
+langchain-openai
+lightrag-hku
